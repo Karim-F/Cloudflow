@@ -7,3 +7,4 @@ Currently, using:
 - React with Vite
 - Tailwindcss
 - Shadcn
+- *lucid*
