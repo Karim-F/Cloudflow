@@ -1,5 +1,5 @@
 {
-  "homepage": "karim-f.github.io/Cloudflow",
+  "homepage": "https://karim-f.github.io/Cloudflow/",
   "name": "landing_base",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@radix-ui/react-icons": "^1.3.0",
